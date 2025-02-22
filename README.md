@@ -28,7 +28,7 @@ This project isn’t just a game; it’s a demonstration of algorithmic elegance
 
 2. **Run the Game**:
    ```bash
-   python TicTakToe-Min-Max-Algorithm.py
+   python game.py
    ```
 
 3. **Gameplay**:
